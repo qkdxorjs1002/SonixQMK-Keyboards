@@ -1,0 +1,1 @@
+SERIAL_LINK_ENABLE = no
