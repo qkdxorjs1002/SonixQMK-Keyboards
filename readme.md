@@ -35,6 +35,8 @@ A QMK Keyboard device configs for Weikav Record Alice (Spring Clone)
 
 ### S/W
 
+### !!! IMPORTANT - SonixQMK Based Firmware
+
 #### Layout and keymap
 
 - [`KLE JSON`](data\keyboard-layout-editor.json)
