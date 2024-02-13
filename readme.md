@@ -6,38 +6,36 @@ A QMK Keyboard device configs for Weikav Record Alice (Spring Clone)
 
 ## Overview
 
-### Repo
-
 - `Keyboard Maintainer` : [`paragonnov`](https://github.com/qkdxorjs1002)
 - All of keyboard Resources -> Check `./data` folder out
 
-### H/W
+## H/W
 
-#### MCU
+### MCU
 
 - `SN32F248F`
 - [`Datasheet PDF`](data\SN32F248_V2.2_EN.pdf)
 
-#### RGB Matrix
+### RGB Matrix
 
 - `Multiplexer`
 - `RBG SMD LED (?)`
 
-#### Keyboard Matrix pin (GPIO)
+### Keyboard Matrix pin (GPIO)
 
 - `Columns` : "C10", "C9", "C8", "C7", "C6", "C5", "C15", "C14", "C4", "C3", "C2", "C1", "C0", "D15", "D7", "D5", "D4"
 - `Rows` : "B7", "B6", "D12", "D11"
 
-#### VID / PID
+### VID / PID
 
 - `Default` : VendorID=369B / ProductID=0051
 - `Bootloader mode` : VendorID=0C45 / ProductID=7900
 
-### S/W
+## S/W
 
 ### !!! IMPORTANT - SonixQMK Based Firmware
 
-#### Layout and keymap
+### Layout and keymap
 
 - [`KLE JSON`](data\keyboard-layout-editor.json)
 
